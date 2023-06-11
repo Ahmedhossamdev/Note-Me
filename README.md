@@ -1,6 +1,6 @@
-# Notes-App
+# Note-Me
 
-The Notes-App is a web application developed using Node.js, Express, and MongoDB. It allows users to create, read, update, and delete notes, providing a seamless note-taking experience. This README provides an overview of the project and instructions for setting up and running the application.
+The Note-Me is a web application developed using Node.js, Express, and MongoDB. It allows users to create, read, update, and delete notes, providing a seamless note-taking experience. This README provides an overview of the project and instructions for setting up and running the application.
 
 ## Features
 
@@ -41,7 +41,7 @@ The Notes-App is a web application developed using Node.js, Express, and MongoDB
 To get started with the Notes-App, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/NotesApp.git
+git clone https://github.com/your-username/Note-Me.git
 
 2. Install the dependencies:
 npm install

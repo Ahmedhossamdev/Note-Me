@@ -17,10 +17,7 @@ The Notes-App is a web application developed using Node.js, Express, and MongoDB
 - Google authentication
 - Passport.js
 - EJS
-
-## Getting Started
-
-To get started with the Notes-App, follow these steps:
-
-1. Clone the repository:
+- Html
+- Css
+- Bootstrap
 

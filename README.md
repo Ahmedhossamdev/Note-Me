@@ -1,4 +1,4 @@
-Notes-App
+*Notes-App
 The Notes-App is a web application developed using Node.js, Express, and MongoDB. It allows users to create, read, update, and delete notes, providing a seamless note-taking experience. This README provides an overview of the project and instructions for setting up and running the application.
 
 Features
